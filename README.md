@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranjalgurav
 - 👀 I’m interested in Embedded software / Firmware Development
-- 🌱 I’m currently working on embedded c and 8051 controllers
+- 🌱 I’m currently working on embedded c and 89c51, STM, ESP, ARM, TI controllers
 - 💞️ I’m looking to collaborate on any type of embedded projects
 - 📫 You can reach me on linkedIn at https://www.linkedin.com/in/pranjalgurav
 
